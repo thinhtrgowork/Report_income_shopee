@@ -11,4 +11,7 @@ google-auth
 google-auth-httplib2
 google-auth-oauthlib
 pydrive2
+
 matplotlib
+gspread
+gspread-dataframe
